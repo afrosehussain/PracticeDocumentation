@@ -41,8 +41,7 @@
 [Click Here](https://www.codechef.com/users/afrosehussain)
 
 ----------------------------------------------------------------
-
-**To insert a table**    
+  
 | Name | Language |
 | ----- | ------- |
 | Hussain | Python |
