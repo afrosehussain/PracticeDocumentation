@@ -43,8 +43,8 @@
 ----------------------------------------------------------------
 
 **To insert a table**    
-|Name|Language|
-|-----|-------|
-|Hussain|Python|
-|Ooha|C|
-|Junaid|Python|
+| Name | Language |
+| ----- | ------- |
+| Hussain | Python |
+| Ooha | C |
+| Junaid | Python |
